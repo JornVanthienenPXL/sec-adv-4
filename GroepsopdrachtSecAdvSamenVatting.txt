@@ -1,0 +1,26 @@
+ToDo:
+
+- Elk Lid TryHackMe ingevuld
+- Elk Lid oplossing.zip geupload op BlackBoard
+
+Documentatie:
+
+- Introductie Pagina met namen, de verdiepingen, mss intro
+- Documentatie van alle stappen niet alleen uitkomst
+  (Stappen die ook gefaalt zijn) met screenshots
+
+Presentatie:
+
+- 20 min presenteren, 10 min vragen 
+- Iedereen moet presenteren en kunnen antwoorden
+- Titelslide met namen en gekozen categorien 
+- Eindigen met een slide of we teamgrading willen ja of nee
+- Niet alleen oplossing, maar ga in detail
+  (Mogelijke linken naar de les toe)
+
+Misc:
+- Afstemmen voor documentatie individuele opdrachten 
+- ...
+
+
+
