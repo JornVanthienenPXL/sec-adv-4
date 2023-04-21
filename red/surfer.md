@@ -23,5 +23,6 @@ Na het bestuderen van de website zagen we verschillende dingen zoals de export t
 
 Eerste hebben we gezocht naar exploits doormiddel van php of request te veranderen kwamen we op burpsuite uit. Door burpsuite te gebruiken konden we de request onderscheppen die de webserver naar de export2pdf server deed en konden we de request veranderen et burpsuite naar het pad /internal/admin.php. Door daarna op forward te klikken en het process te doorlopen krijgen we de /internal/admin.php export2pdf terug op onze website en zagen we hier de flag op staan.
 
+via burp de request aangepast en dat de url '%2Finternal%2admin.php'
 
 flag{6255c55660e292cf0116c053c9937810}
