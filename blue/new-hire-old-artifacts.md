@@ -55,4 +55,23 @@ We hebben via de hint in try hack mee gezocht in splunk op de term "taskkill /im
 ```
 WvmIOrcfsuILdX6SNwIRmGOJ.exe,phcIAmLJMAIMSa9j9MpgJo1m.exe
 ```
-![image 3](./images/image_4.PNG)
+![image 4](./images/image_4.PNG)
+
+## Vraag 7
+We hebben gefilterd op 'PowerShell Defender' daarna hebben we gezzocht naar de meest recente datum.
+![image 5](./images/image_5.PNG)
+
+Dan binnen de Event zie je dat er een bepaalde commando wordt uitgevoerd via powershell namelijk: 'powershell  WMIC /NAMESPACE:\root\Microsoft\Windows\Defender PATH MSFT_MpPreference call Add ThreatIDDefaultAction_Ids=2147737394 ThreatIDDefaultAction_Actions=6 Force=True'.
+
+
+## Vraag 8
+Binnen dezelfde event zie je ook 4 verschillende ID's dat gezet worden door de aanvaller.
+![image 6](./images/image_6.PNG)
+
+## Vraag 9
+Voor deze vraag hebben we gefilterd op 'AppData' en de datum gezet op All Time zo zie je namelijk het pad van malicious binary.
+![image 7](./images/image_7.PNG)
+
+## Vraag 10
+Nu gebaseerd op de vorige antwoord moet je voor deze vraag een field geselecteerd namelijk: 'ImageLoaded'. Zo zie je dan de eerste 3 .dll file
+![image 8](./images/image_8.PNG)
