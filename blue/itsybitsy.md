@@ -45,6 +45,8 @@ Antwoord: 'pastebin.com'
 
 Als je nu kijkt naar de uri kun je de volledige url samen pasten en als je surft naar die site vind je een secret file met daarin de flag.
 
+Antwoord: 'pastebin.com/yTg0Ah6a'
+
 
 ## Opdracht 6 
 

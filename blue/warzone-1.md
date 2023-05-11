@@ -4,8 +4,7 @@ This document describes the elaboration of the 'Warzone 1' assignment
 
 ## Table of contents
 
--   [Title 1](#Title-1)
--   ...
+-   [Begin onderzoek van PCAP file met de BRIM tool](#begin-onderzoek-van-pcap-file-met-de-brim-tool)
 
 
 ## Begin onderzoek van PCAP file met de BRIM tool
