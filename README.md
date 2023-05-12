@@ -34,13 +34,10 @@ Deze repository beschrijft het groepswerk van Security Advanced 2022-2023 van gr
 -   Red
 
 
-
-
-
 ## Todo
 
 -   [x] Elk Lid TryHackMe ingevuld
--   [ ] oplossing.zip geupload op BlackBoard
+-   [x] oplossing.zip geupload op BlackBoard
 
 ### Documentatie:
 
@@ -50,9 +47,9 @@ Deze repository beschrijft het groepswerk van Security Advanced 2022-2023 van gr
 
 ### Presentatie:
 
--   [ ] 20 min presenteren, 10 min vragen 
--   [ ] Iedereen moet presenteren en kunnen antwoorden
+-   [x] 20 min presenteren, 10 min vragen 
+-   [x] Iedereen moet presenteren en kunnen antwoorden
 -   [x] Titelslide met namen en gekozen categorien 
 -   [x] Eindigen met een slide of we teamgrading willen ja of nee
--   [ ] Niet alleen oplossing, maar ga in detail
+-   [x] Niet alleen oplossing, maar ga in detail
   (Mogelijke linken naar de les toe)
